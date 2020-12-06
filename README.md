@@ -3,9 +3,9 @@
 * ¿Qué comando o comandos utilizaste en el paso 12? ¿Por qué?
 `git reset --hard 9eb18a6` Igual que antes, para recuperar la working copy tal y como estaba modificada.
 * El merge del paso 13, ¿Causó algún conflicto? ¿Por qué?
-No, porque
+No.
 * El merge del paso 19, ¿Causó algún conflicto? ¿Por qué?
-Sí. Porque
+Sí. Porque había un archivo modificado.
 * El merge del paso 21, ¿Causó algún conflicto? ¿Por qué?
 No. Porque solo se hizo un fast forward.
 * ¿Qué comando o comandos utilizaste en el paso 25?
